@@ -1,4 +1,4 @@
-ng-backpack 1.1.0
+ng-backpack 1.1.1
 ng-burlapbags 1.1.0
 ng-jobadvertise 1.0.0
 ng-noshoes 1.0.1
