@@ -6,3 +6,4 @@ ng-ragdoll 1.0.0
 ng-cleanclothes 1.0.2
 ng-mapmarker 1.0.0
 ng-treecollect 1.0.0
+ng-trashcans 1.0.0
