@@ -3,7 +3,7 @@ ng-burlapbags 1.1.0
 ng-jobadvertise 1.0.0
 ng-noshoes 1.0.2
 ng-ragdoll 1.0.0
-ng-cleanclothes 1.0.2
+ng-cleanclothes 1.0.3
 ng-mapmarker 1.0.0
 ng-treecollect 1.0.0
 ng-trashcans 1.0.0
