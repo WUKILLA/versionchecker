@@ -9,3 +9,4 @@ ng-treecollect 1.0.0
 ng-trashcans 1.0.0
 ng-deathcause 1.0.0
 ng-butcher 1.0.0
+ng-bottleconv 1.0.0
